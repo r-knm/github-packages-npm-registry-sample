@@ -1,0 +1,11 @@
+{
+  "name": "github-packages-npm-registry-sample",
+  "version": "0.0.1",
+  "description": "This is a sample of using the npm registry of GitHub Packages to distribute shared packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "r-knm",
+  "license": "ISC"
+}
