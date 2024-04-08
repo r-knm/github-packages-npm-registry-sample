@@ -18,5 +18,9 @@
     "url": "git://github.com/r-knm/github-packages-npm-registry-sample"
   },
   "author": "r-knm",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
 }
