@@ -2,7 +2,7 @@
   "name": "@r-knm/github-packages-npm-registry-sample",
   "version": "0.0.1",
   "description": "This is a sample of using the npm registry of GitHub Packages to distribute shared packages.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "prepublishOnly": "npm run build",
