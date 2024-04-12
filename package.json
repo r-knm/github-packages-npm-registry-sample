@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git://github.com/r-knm/github-packages-npm-registry-sample"
   },
+  "files": [
+    "dist"
+  ],
   "author": "r-knm",
   "license": "ISC",
   "devDependencies": {
